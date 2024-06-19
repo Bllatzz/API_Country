@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333333;
+    width: 100%;
+    height: 8vh;
+    overflow-y: hidden;
+
+    ul{
+        width: 100%;
+        text-align: left;
+        display: flex;
+        align-items: center;
+    }
+    .imgHeader{
+        width: 47%;
+        height: 50%;
+        text-align: end;
+    }
+    img{
+       width: 13%;
+    }
+
+    a{
+        font-size: x-large;
+        color: white;
+    }
+    
+  a:hover{
+    filter: brightness(30%);
+  }
+}

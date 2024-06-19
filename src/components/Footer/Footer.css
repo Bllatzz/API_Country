@@ -1,0 +1,24 @@
+footer {
+  display: flex;
+  background-color: #111;
+  height: 10vh;
+  width: 100%;
+  padding: 80px 150px;
+  justify-content: space-around;
+  align-items: center;
+
+  .social {
+    display: flex;
+    align-items: center;
+    a {
+        margin: 0 20px;
+        color: white;
+    
+        font-size: x-large;
+      }
+      a:hover{
+        scale: 1.2;
+      }
+  }
+ 
+}
