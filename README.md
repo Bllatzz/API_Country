@@ -1,8 +1,22 @@
-# React + Vite
+# Meu Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Descrição da Imagem](https://raw.githubusercontent.com/bllatz/API_Country/main/path/to/image.png)
 
-Currently, two official plugins are available:
+Esse projeto mostra todos os países do mundo junto da sua população e sua área
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Funcionalidade 1
+- Funcionalidade 2
+- Funcionalidade 3
+
+## Como usar
+
+Instruções sobre como usar o projeto.
+
+## Contribuindo
+
+Instruções sobre como contribuir para o projeto.
+
+## Licença
+
+Informações sobre a licença do projeto.
