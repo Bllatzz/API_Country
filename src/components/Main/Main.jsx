@@ -13,7 +13,7 @@ function Main() {
   const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
-    fetch("../../public/paises.json")
+    fetch("./paises.json")
       .then((res) => res.json())
       .then((data) => {
         if (data && Array.isArray(data)) {
